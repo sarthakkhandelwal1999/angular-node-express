@@ -1,6 +1,6 @@
 {
   "/api/*": {
-    "target": "http://localhost:3000",
+    "target": "backenddev-1314295398.us-east-1.elb.amazonaws",
     "secure": false,
     "logLevel": "debug",
     "changeOrigin": true
